@@ -1,4 +1,4 @@
-In this repository, several problems have been solved using Python, utilizing oop, class, math operations, conditions, functions, loops, lists and dictionaries methods.
+In this repository, several problems have been solved using Python, utilizing OOPs, classes, math operations, conditions, functions, loops, lists and dictionaries methods.
 The questions are listed below.
 
 Bank Accounts: 
